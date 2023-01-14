@@ -7,7 +7,7 @@ sys.path.append(path)
 
 import requests
 
-api_key = "RGAPI-ce8fed2d-5fc8-45f7-a8f7-1d46ba800d9a"
+api_key = "APIKEY"
 headers = {
     "X-Riot-Token": api_key
 }
